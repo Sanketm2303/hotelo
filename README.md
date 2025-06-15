@@ -37,23 +37,7 @@ RESTful APIs
 
 📦 Modular and scalable architecture
 
-🖥️ Screenshots
-(Include some screenshots or a short demo video link here if available)
 
-📁 Project Structure
-css
-Copy
-Edit
-hotel-management-system/
-├── backend/           # Spring Boot application
-│   ├── src/main/java/
-│   ├── src/main/resources/
-│   └── pom.xml
-├── frontend/          # React application
-│   ├── public/
-│   ├── src/
-│   └── package.json
-└── README.md
 ⚙️ Installation & Setup
 1️⃣ Backend Setup
 bash
