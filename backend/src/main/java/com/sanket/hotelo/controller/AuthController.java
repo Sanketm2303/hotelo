@@ -12,6 +12,8 @@ import com.sanket.hotelo.dto.Response;
 import com.sanket.hotelo.entity.User;
 import com.sanket.hotelo.service.interfac.IUserService;
 
+//comments here
+    
 @RestController
 @RequestMapping("/auth")
 public class AuthController {
